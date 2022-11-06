@@ -1,0 +1,16 @@
+body {
+    background: #0f4a56;
+}
+
+.light_on {
+    border: 1px solid #FFF9;
+    background: #FFF9;
+    color: #FFFFFF;
+
+}
+
+.light_off {
+    border: 1px solid #000000;
+    background: #000000;
+    color: #535F5B;
+}
